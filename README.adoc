@@ -1,0 +1,9 @@
+== GNU Make
+
+=== Oreilly
+
+link:https://www.oreilly.co.jp/library/4873112699/[GNU Make 第3版]
+
+=== License
+
+link:https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License[GFDL]
