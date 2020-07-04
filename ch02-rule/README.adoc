@@ -1,0 +1,9 @@
+== 2章 ルール
+
+----
+$ make memo
+mkdir tmp
+date "+%Y-%m-%d-%Hh%Mm%Ss" >> ./tmp/memo
+tail --lines 3 ./tmp/memo
+2020-07-04-06h58m48s
+----
